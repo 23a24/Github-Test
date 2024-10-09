@@ -48,4 +48,3 @@ void loop() {
 ```
 [hyperlink](https://pizza.com)
 use this arduino file [arduino_template.ino](ardunio_template_2.ino)
-[![youtube video](images/Screenshot 2024-10-09 153000.png)](https://youtube.com)
